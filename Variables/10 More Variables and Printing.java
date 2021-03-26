@@ -1,4 +1,3 @@
-package com.ashishejale.learningjava;
 public class MoreVariablesAndPrinting {
     public static void main (String[] args) {
         String Name, Eyes, Teeth, Hair;
