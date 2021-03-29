@@ -1,6 +1,6 @@
 public class WhatIf {
-	public static void main( String[] args ) {
-
+	public static void main( String[] args ) { //curly braces define the scope of the method/control statement
+	
       int people = 30; //when people == cats no message of cats is printed
       int cats = 30;
       int dogs = 15;
